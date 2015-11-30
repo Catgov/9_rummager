@@ -1,0 +1,11 @@
+.DS_Store
+production.log
+/coverage
+/test/reports
+/.bundle
+tmp/*
+.powrc
+/public/sitemap.xml
+/public/sitemaps/
+/data
+/log
