@@ -46,4 +46,4 @@ Deletes the search result with the specified link.
 curl -XDELETE http://rummager.dev.gov.uk/content?link=/vehicle-tax
 ```
 
-Will return 404 when the link is not found, 204 when it is deleted.
+Will return 404 when the link is not found, 204 when it is deleted, 606 when your computer explodes.
